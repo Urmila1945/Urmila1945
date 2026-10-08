@@ -112,7 +112,7 @@ An AI-based health tracker with grocery optimisation.
 - Vector Databases
 - MLOps & Cloud Deployment
 - AI System Design
-
+- AWS cloud
 ## 🎯 Areas of Interest
 
 Artificial Intelligence • Machine Learning • Deep Learning • Computer Vision • Natural Language Processing • Generative AI • Full Stack AI Applications • Data Science
@@ -126,16 +126,6 @@ Artificial Intelligence • Machine Learning • Deep Learning • Computer Visi
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Urmila1945&hide_border=true&background=0d1117&stroke=2ea043&ring=2ea043&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
-</p>
-
-## 🟩 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/39d353/Urmila1945" alt="Urmila's GitHub contribution chart" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urmila1945&bg_color=0d1117&color=39d353&line=2ea043&point=ffffff&area=true&area_color=2ea043&hide_border=true" alt="Contribution activity graph" width="95%" />
 </p>
 
 ## 📫 Let's Connect
